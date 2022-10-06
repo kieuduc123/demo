@@ -98,3 +98,6 @@ DELETE FROM Course
 
 ALTER TABLE Course_Grades
 DROP constraint CID_CG_FK,SID_CG_FK
+
+
+
